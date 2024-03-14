@@ -1,0 +1,11 @@
+
+.borderline {
+  border-style: solid;
+  border-radius: 1px;
+  box-sizing:unset;
+  margin: 20px;
+}
+.borderline.container{
+    width: 250px;
+}
+
